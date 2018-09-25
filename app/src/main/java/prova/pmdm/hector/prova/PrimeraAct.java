@@ -1,0 +1,13 @@
+package prova.pmdm.hector.prova;
+
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+
+public class PrimeraAct extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_primera);
+    }
+}
